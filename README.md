@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **spaniruddha@gmail.com**
 
-- 📄 Know about my experiences , As a Machine Learning Intern, I gained hands-on experience working with various machine learning algorithms and data processing techniques. I was involved in developing and training models, interpreting their results, and optimizing their performance.
+- 📄 Know about my experiences , As a Machine Learning Intern, I gained hands-on experience in developing and optimizing machine learning models. I worked with various algorithms and data processing techniques to build, train, and fine-tune models for improved performance. My role involved interpreting model results, optimizing hyperparameters, and implementing enhancements to boost accuracy and efficiency. Additionally, I explored data preprocessing strategies to improve model reliability and gained practical insights into real-world ML applications.
 
 <h3 align="left">Connect with me:</h3>
 
