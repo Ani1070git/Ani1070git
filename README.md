@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aniruddha S P</h1>
-<h3 align="center">AI/ML Enthusiast & MERN Stack Developer from India</h3>
+<h3 align="center">Data Programmer @ Labcorp</h3>
 
-- 🌱 I’m currently learning **Node JS, React JS , MongoDB**
+- 🌱 Currently Learning: FastAPI • Docker • PostgreSQL • LangChain • Retrieval-Augmented Generation (RAG) • System Design for AI Applications
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ani1070git](https://github.com/Ani1070git)
 
 - 📫 How to reach me **spaniruddha@gmail.com**
 
-- 📄 Know about my experiences , As a Machine Learning Intern, I gained hands-on experience in developing and optimizing machine learning models. I worked with various algorithms and data processing techniques to build, train, and fine-tune models for improved performance. My role involved interpreting model results, optimizing hyperparameters, and implementing enhancements to boost accuracy and efficiency. Additionally, I explored data preprocessing strategies to improve model reliability and gained practical insights into real-world ML applications.
+- 📄 Know about my experiences , Currently working as a Data Programmer at Labcorp, where I develop and optimize SQL queries, build ETL workflows using Informatica Intelligent Cloud Services (IICS), and ensure the quality and integrity of large-scale healthcare datasets. I collaborate with cross-functional teams to transform complex business requirements into reliable data solutions while gaining hands-on experience with Azure and modern data engineering practices. Alongside my professional work, I'm expanding my expertise in AI backend development by building production-ready applications using Python and FastAPI.
 
 <h3 align="left">Connect with me:</h3>
 
